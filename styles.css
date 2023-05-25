@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.moviePic img{
+.moviePic{
 	position: relative;
 	left: 37%;
 	height: 25%;
@@ -8,7 +8,7 @@
 	opacity: .5;
 }
 
-.movieDetail p{
+.movieDetail{
 	position: relative;
 	top: 5px;
 	left: 25%;
